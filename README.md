@@ -1,2 +1,2 @@
 # Fast-8
-<h2>Group : Raiden sama</h2>
+<h2>Education website: tell story about history of bus number 8</h2>
